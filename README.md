@@ -10,13 +10,14 @@ About 4 years of Full time experience, working on enterprise B2B apps in the dom
 Expertise: Data Structures and Algorithms, Supervised Learning, Problem solving and Web programming. 
 
 
-Additional links: 
-    - Portfolio: http://utk1801.github.io/
-    - Linkedin: https://www.linkedin.com/in/utk1801/
-    - eResume: https://github.com/utk1801/utk1801.github.io/blob/master/resume/UtkarshGarg_RESUME.pdf
+Additional links:<br>
+ - Portfolio: http://utk1801.github.io/ <br>
+ - Linkedin: https://www.linkedin.com/in/utk1801/ <br>
+ - eResume: https://github.com/utk1801/utk1801.github.io/blob/master/resume/UtkarshGarg_RESUME.pdf
 
-
+<p>
+    
 - 💬 Ask me about anything tech/gadgets/gizmos.
 - 📫 How to reach me: Hit me up over LinkedIn.
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I love making programming jokes. <insert nerd smiley here>
+- ⚡ Fun fact: I love making programming jokes. (insert nerd smiley here)
