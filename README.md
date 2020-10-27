@@ -12,8 +12,11 @@ With a blend of industry experience, along with the technical skills I have buil
 
 
 Additional links: 
+
     - Portfolio: http://utk1801.github.io/
+    
     - Linkedin: https://www.linkedin.com/in/utk1801/
+    
     - eResume: https://github.com/utk1801/utk1801.github.io/blob/master/resume/UtkarshGarg_RESUME.pdf
 
 
