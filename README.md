@@ -1,22 +1,18 @@
 ### Hi there 👋
 
 
-About me: I'm a Computer Science Graduate student studying at Stony Brook University @New York.
+I'm a Computer Science Graduate student studying at Stony Brook University, New York.
 
-Recently I have concluded my CPT @Sony PlayStation as a Software Intern for 3 months. During this period, I was working under the Payments domain and was responsible for creating an abstraction service for their Payment Gateway.
-In the past, I have worked for VISA’s product reliability & engineering team for 4 years. I started off as a Systems Analyst, where in I was responsible for Infrastructure engineering, reliability monitoring and traffic management for highly critical business applications/services.
+Techie, a Polyglot , I love exploring and fiddling with new technologies in an attempt to solve the hot computer science problems. I live by the words of Steve Jobs, “Stay hungry. Stay foolish.” and approach everything I do with this in mind to guide my curiosity and goals
 
-Later after 2 years I moved to the development space, which is when I started working on Agile methodology for their Identity & Access Management systems, and worked on developing features around SSO, Federation related workflows. 
+About 4 years of Full time experience, working on enterprise B2B apps in the domains of Payments and Loyalty services. Seasoned professional with experience in Python, Java8, Javascript and DevOps/Cloud computing. Interested in working on applications at the intersection of Data Analytics and Machine Learning.
 
-With a blend of industry experience, along with the technical skills I have built during my Masters’ degree, I am keen to develop products that have a meaningful impact. I am currently looking for full time job opportunities with focus around Software, Cloud or Data Engineering roles. 
+Expertise: Data Structures and Algorithms, Supervised Learning, Problem solving and Web programming. 
 
 
 Additional links: 
-
     - Portfolio: http://utk1801.github.io/
-    
     - Linkedin: https://www.linkedin.com/in/utk1801/
-    
     - eResume: https://github.com/utk1801/utk1801.github.io/blob/master/resume/UtkarshGarg_RESUME.pdf
 
 
